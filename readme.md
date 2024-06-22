@@ -64,3 +64,7 @@ even though you put less value here, the length and space in memory will be occu
 Slices
 
 
+Structs
+There is no inheritence and no concept of parent or super class in GO
+
+
